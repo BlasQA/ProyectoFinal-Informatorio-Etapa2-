@@ -1,0 +1,3 @@
+#no subir al repositorio: entornos virtuales, media, keys, debugs, base de datos
+env
+db.sqlite3
